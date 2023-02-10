@@ -1,4 +1,4 @@
-                 REPASANDO COMANDOS
+COMANDOS
 pwd
 # Nos indica enque carpeta esta ubicado nuestro proyecto.
 ls
@@ -17,4 +17,4 @@ git add
 git remote origin "url"
 # Conecta nuestra carpeta local con nuestro repositorio remoto
 git push -u origin master
-git push -u origin main
+
